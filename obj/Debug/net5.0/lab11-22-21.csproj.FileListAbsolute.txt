@@ -1,0 +1,16 @@
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\bin\Debug\net5.0\lab11-22-21.exe
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\bin\Debug\net5.0\lab11-22-21.deps.json
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\bin\Debug\net5.0\lab11-22-21.runtimeconfig.json
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\bin\Debug\net5.0\lab11-22-21.runtimeconfig.dev.json
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\bin\Debug\net5.0\lab11-22-21.dll
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\bin\Debug\net5.0\ref\lab11-22-21.dll
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\bin\Debug\net5.0\lab11-22-21.pdb
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\obj\Debug\net5.0\lab11-22-21.csproj.AssemblyReference.cache
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\obj\Debug\net5.0\lab11-22-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\obj\Debug\net5.0\lab11-22-21.AssemblyInfoInputs.cache
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\obj\Debug\net5.0\lab11-22-21.AssemblyInfo.cs
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\obj\Debug\net5.0\lab11-22-21.csproj.CoreCompileInputs.cache
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\obj\Debug\net5.0\lab11-22-21.dll
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\obj\Debug\net5.0\ref\lab11-22-21.dll
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\obj\Debug\net5.0\lab11-22-21.pdb
+C:\Users\12055\Dropbox\PC\Documents\MIS 221\source\repos\lab11-22-21\obj\Debug\net5.0\lab11-22-21.genruntimeconfig.cache
